@@ -1,0 +1,25 @@
+//
+// variables 
+//
+
+$white_color: #ffffff;
+$light_white: #f1f5f9;
+$dark_color: #334155;
+$gray_color: #1e293b;
+$light_gray: #e2e8f0;
+$purple_color: #4104c4;
+$orange_color: #eb8c1d;
+$dark_orange: #b16915;
+
+$text_color: #c2c8d0;
+$bg_color: #f8fafc;
+
+$medium_device:'only screen and (min-width: 992px) and (max-width: 1200px)';
+$tab_device:'only screen and (min-width: 768px) and (max-width: 991px)';
+$large_mobile: 'only screen and (min-width: 576px) and (max-width: 767px)';
+$tab:'(max-width: 991px)';
+$small_mobile:'(max-width: 575px)';
+$xs_mobile:'(max-width: 420px)';
+$sm_mobile:'only screen and (min-width: 421px) and (max-width: 575px)';
+$big_screen:'only screen and (min-width: 1200px) and (max-width: 1368px)';
+$extra_big_screen: 'only screen and (min-width: 1400px) and (max-width: 3640px)'; 
